@@ -1,0 +1,17 @@
+/* Tipografia de la pagina */
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Imagen Central */
+
+.heroimg{
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    margin-top: 5em;
+    
+    
+}
